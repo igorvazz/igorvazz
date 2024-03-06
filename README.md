@@ -4,14 +4,7 @@
 
 🎓 I am a **Senior Machine Learning Engineer** with a strong background in **Deep Learning and Generative AI Applications**, and **Computational Neuroscience**, pursuing my PhD in **Computational Neuroscience** at the **University of Coimbra**.
 
-👨‍💻 With extensive experience in both academia and the industry, I have contributed to cutting-edge projects in machine learning, backend development, and DevOps. My work spans across various domains, including **Generative AI for images**,  **Optical Character Recognition (OCR)** systems, **Multimodal Retrieval Augmented Generation (RAG)** systems, **Deep Learning applications for Image Segmentation, Object Detection and Tracking, and 3D Medical Images**, **Voice-Bots for food ordering systems**, and **Infrastructure as Code (IaC)** frameworks using **Terraform** and **AWS Services**.
-
-## 🏅 Achievements
-
-- **Senior Machine Learning Engineer** at Goco, where I led the development of advanced machine learning techniques and systems.
-- **Machine Learning Engineer / Full Stack Developer** at CGTrader, enhancing internal services efficiency and leading the development of an AI art image generation service (https://cgdream.ai/).
-- **Machine Learning Engineer / Backend Engineer** at kea, creating voice-based food ordering systems and enhancing backend systems for performance and reliability.
-- **Machine Learning Engineer / Data Scientist** at CPQD, developing applications for the Agricultural and public surveillance sectors.
+👨‍💻 With extensive experience in both academia and the industry, I have contributed to cutting-edge projects in machine learning, backend development, and DevOps. My work spans across various domains, including **Generative AI for images** (https://cgdream.ai/),  **Optical Character Recognition (OCR)** systems, **Multimodal Retrieval Augmented Generation (RAG)** systems, **Deep Learning applications for Image Segmentation, Object Detection and Tracking, and 3D Medical Images**, **Voice-Bots for food ordering systems**, and **Infrastructure as Code (IaC)** frameworks using **Terraform** and **AWS Services**.
 
 ## 🛠️ Skills
 
